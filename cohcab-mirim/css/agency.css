@@ -156,3 +156,18 @@ header .intro-text{padding-top:100px;padding-bottom:50px}header .intro-text .int
 	text-align: center;
 
 }
+
+.blue
+{
+  color: blue;
+}
+
+.red
+{
+  color: red;
+}
+
+#apresentacao
+{
+  padding-bottom: 10px;
+}
