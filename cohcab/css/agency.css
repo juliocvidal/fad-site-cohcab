@@ -10,6 +10,24 @@ body{overflow-x:hidden;font-family:"Roboto Slab","Helvetica Neue",Helvetica,Aria
   padding: 70px 0;
 }
 
+.about-fad
+{
+	font-size: 20px;
+}
+
+.email
+{
+	color: white;
+	text-align: center;
+
+}
+
+.phone
+{
+	color: white;
+	text-align: center;
+
+}
 .bg-image, .bg-image-1, .bg-image-2 {
   position: relative;
 }
